@@ -79,8 +79,9 @@ body, p {
 }
 
 h1 {
-	color: #484a46;
-	font: 700 2.5rem/3rem "Montserrat", sans-serif;
+	color: #bf5f7aff;
+	font: 600 1.5rem/1.5rem "Montserrat", sans-serif; 
+	text-align: center
 }
 
 h2 {
