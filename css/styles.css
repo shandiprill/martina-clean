@@ -120,12 +120,11 @@ blockquote {
 
 a {
 	color: #787976;
-	text-decoration: underline;
 }
 
 a:hover {
 	color: #787976;
-	text-decoration: underline;
+	text-decoration: underline; 
 }
 
 a.green {
