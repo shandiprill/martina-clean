@@ -1,6 +1,12 @@
----
-layout: default
----
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include navbar.html %}
 
 <!-- Page Header -->
 <header id="header" class="header">
@@ -17,11 +23,10 @@ layout: default
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
         </div> <!-- end of header-content -->
-    </header> 
+    </header> 	
 
+  {{ content }}
 
-
-{{ content }}
 <div id="posts" class="cards-2">
   <div class="container">
     <div class="row">
@@ -64,3 +69,14 @@ layout: default
   </div> <!-- end of container -->
 </div>  
 
+	
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+  {% include google-analytics.html %}
+
+</body>
+
+</html>
