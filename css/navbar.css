@@ -1,9 +1,0 @@
-#navbar.hidden {
-  opacity: 0;
-  visibility: hidden;
-}
-
-#navbar.visible {
-  opacity: 1;
-  visibility: visible;
-}
