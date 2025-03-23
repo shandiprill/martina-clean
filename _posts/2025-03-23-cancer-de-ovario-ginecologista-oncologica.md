@@ -2,6 +2,9 @@
 layout: post
 title: "Câncer de Ovário: Informação Essencial e o Papel da Ginecologista Oncológica"
 subtitle: "A ausência de um método de rastreamento perfeito enfatiza a importância da vigilância e da avaliação ginecológica regular para identificar sinais precoces."
+keywords:
+  - câncer de ovário
+  - citorredução
 ---
 
 A saúde da mulher é uma prioridade, e estar bem informada sobre as condições que podem afetá-la é fundamental para a prevenção e o cuidado. 
