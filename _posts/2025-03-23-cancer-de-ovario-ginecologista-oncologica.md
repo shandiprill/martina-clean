@@ -51,9 +51,9 @@ A presença de um ou mais desses sintomas de forma persistente justifica uma con
 - Dor durante a relação sexual
 - Sangramento vaginal anormal (especialmente pós-menopausa)
 
-> Estar atenta aos sinais e sintomas é um passo fundamental para a saúde da mulher. 
+Estar atenta aos sinais e sintomas é um passo fundamental para a saúde da mulher. 
 
-A ginecologista oncológica é a profissional mais indicada para avaliar e cuidar de pacientes com suspeita ou diagnóstico de câncer de ovário. 
+> A ginecologista oncológica é a profissional mais indicada para avaliar e cuidar de pacientes com suspeita ou diagnóstico de câncer de ovário. 
 
 Não hesite em procurar avaliação médica caso perceba sintomas persistentes. 
 
