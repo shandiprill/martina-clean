@@ -3,3 +3,7 @@ _site
 node_modules
 Gemfile.lock
 *.gem
+LICENSE
+README.md
+about.html
+contact.html
