@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "Man must explore, and this is exploration at its greatest"
+subtitle: "Problems look mighty small from 150 miles up"
 ---
 ## Diu: Uma Opção de Tratamento para a Saúde da Vagina
 
