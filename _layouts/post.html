@@ -1,23 +1,18 @@
 ---
 layout: default
 ---
-
-<!-- Page Header -->
+<div id="post" class="basic-1">
+	<div class="container">
+    <div class="row">
+      <div class="col-lg-4">
 {% if page.background %}
-<div class="container">
-  <div class="row">
-    <div class="col-lg-10 col-md-10 mx-auto">
-
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
   {% else %}
   <header class="masthead">
     {% endif %}
     
   </header>
-  
-    </div>
-  </div>
-</div>
+
 
   <div class="overlay"></div>
     <div class="container">
@@ -58,3 +53,7 @@ layout: default
       </div>
     </div>
   </div>
+      </div>
+    </div>
+  </div>
+</div>
