@@ -60,11 +60,3 @@ Embora a detecção precoce dessa doença apresente desafios devido à natureza 
 É essencial que as mulheres agendem consultas regulares com sua ginecologista para discutir quaisquer preocupações e realizar os exames de rotina. 
 
 A detecção em estágios iniciais, mesmo com suas dificuldades, oferece as melhores chances para o manejo bem-sucedido do câncer de ovário.
-
-#### Referências citadas
-
-- Câncer de ovário — Instituto Nacional de Câncer - INCA, acessado em março 23, 2025, https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/ovario
-- Ovário | A.C.Camargo Cancer Center, acessado em março 23, 2025, https://accamargo.org.br/sobre-o-cancer/tipos-de-cancer/ovario
-- Consulta anual é imprescindível para detectar câncer de ovário ..., acessado em março 23, 2025, https://vencerocancer.org.br/consulta-anual-e-imprescindivel-para-detectar-cancer-de-ovario/
-- Câncer do Ovário – BP – A Beneficência Portuguesa de São Paulo, acessado em março 23, 2025, https://www.bp.org.br/centros-de-especialidades/oncologia/doencas/cancer-do-ovario
-- www.gov.br, acessado em março 23, 2025, https://www.gov.br/conitec/pt-br/midias/protocolos/ddt/ddt_neoplasiamalignaepitelialdeovario_2019.pdf
