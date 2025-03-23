@@ -109,6 +109,15 @@ h6 {
 	font: 700 1rem/1rem "Montserrat", sans-serif;
 }
 
+blockquote {
+  font: 700 1rem/1rem "Montserrat", sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #484a46;
+}
+
 a {
 	color: #787976;
 	text-decoration: underline;
