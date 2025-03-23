@@ -1,4 +1,11 @@
 <link href="/css/header.css" rel="stylesheet">
 <header>
-  <img src="/images/header-background.jpg">
+  <picture>
+  <source media="(max-width: 576px)"
+          srcset="/images/header-background.jpg">
+  <source media="(max-width: 922px)"
+          srcset="/images/header-background.jpg">
+  <source media="(min-width: 923px)"
+          srcset="/images/header-background.jpg">
+</picture>
 </header>
